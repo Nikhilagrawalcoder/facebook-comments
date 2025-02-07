@@ -1,0 +1,3 @@
+envVars:
+  - key: CHROMIUM_DRIVER_PATH
+    value: /app/chromium-driver/chromedriver
